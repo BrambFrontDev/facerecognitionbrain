@@ -1,0 +1,11 @@
+.logo {
+    width: 150px;
+    height: 150px;
+    background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
